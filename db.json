@@ -13,9 +13,9 @@
    "saludo":"hola" 
   },
   "code":{
-    "statusCode": 200,
-    "responseMessage": "https://talentoqa1a.evaluatest.mx/login/unattended?cu=NJM8lN0lUcSSV9r8VcZtcCR87JFmZuiyhRLLtaddLIv5Q07AAF9x79gc54B1rIznF5GnzFLbjqGNuQXiqZzDDA==",
-    "content": null,
-    "response": null,
+    "statusCode": "200',
+    "responseMessage": "https://localhost:3000/login/unattended?cu=NJM8lN0lUcSSV9r8VcZtcCR87JFmZuiyhRLLtaddLIv5Q07AAF9x79gc54B1rIznF5GnzFLbjqGNuQXiqZzDDA==",
+    "content": "null",
+    "response": "null",
   }
 }
